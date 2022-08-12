@@ -9,7 +9,7 @@
     "url":        "http://www.apache.org/licenses/LICENSE-2.0.html"
   }],
   "dependencies" : {
-		"coffee-script" : "1.1.2",
+		"coffee-script" : "1.12.7",
 		"nodeunit" : "0.5.3"
   }
 }
